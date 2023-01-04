@@ -1,0 +1,9 @@
+.leaflet_map {
+  margin: auto;
+  width: 50vw;
+  height: 50vh;
+}
+
+.leaflet-routing-alternatives-container {
+  display: none;
+}
